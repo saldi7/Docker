@@ -10,5 +10,5 @@ else
 	if [ ! -z "${WORKER_NAME}" ]; then
 		PAYOUT_ADDRESS="${PAYOUT_ADDRESS}.${WORKER_NAME}"
 	fi
-	${DOCKER} run --name nheqminer-veruscoin --rm -it nheqminer-veruscoin -v -l ${POOL_HOST}:${POOL_PORT} -u ${PAYOUT_ADDRESS} -t ${NHEQ_THREADS}
+	${DOCKER} run --name nheqminer-verus --rm -it nheqminer-verus -v -l ${POOL_HOST}:${POOL_PORT} -u ${PAYOUT_ADDRESS} -t ${NHEQ_THREADS}
 fi

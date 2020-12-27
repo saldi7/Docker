@@ -8,6 +8,6 @@ if [ -z "${DOCKER}" ]; then
     exit 1
 else
 	${GIT} pull
-	${DOCKER} build -t nheqminer-veruscoin .
+	${DOCKER} build -t nheqminer-verus .
 fi
 

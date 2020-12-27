@@ -2,7 +2,7 @@
 
 For more info see one of these websites: 
 
- * https://veruscoin.io
+ * https://verus.io
  * https://github.com/veruscoin
 
 This flavour of `nheqminer-verus` gets the sourcecode from https://github.com/veruscoin/nheqminer and builds it on your CPU.
@@ -25,8 +25,8 @@ cd docker/nheqminer-verus-source
 
 ## Looking for a pool? 
 
- * [pool.veruscoin.io](https://pool.veruscoin.io) is the 5% fee community pool, donating all of it directly to the VerusCoin Foundation.
- * A list of other mining pools is on the [VerusCoin website](https://veruscoin.io)
+ * [pool.verus.io](https://pool.verus.io) is the 5% fee community pool, donating all of it directly to the Verus Foundation.
+ * A list of other mining pools is on the [Verus website](https://verus.io)
 
 ## Did this help you? 
 

@@ -1,6 +1,6 @@
 #
-# Dockerfile for nheqminer-veruscoin, https://github.com/VerusCoin/nheqminer
-# usage: docker run --rm -it nheqminer-veruscoin -v -l 95.216.13.66:9999 -u RB4E24growBcS5jMLrLTZJTToFdQ7r51VR
+# Dockerfile for nheqminer-verus, https://github.com/VerusCoin/nheqminer
+# usage: docker run --rm -it nheqminer-verus -v -l 95.216.13.66:9999 -u RB4E24growBcS5jMLrLTZJTToFdQ7r51VR
 # or see run.sh
 #
 

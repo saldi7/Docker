@@ -2,7 +2,7 @@
 
 For more info see one of these websites: 
 
- * https://veruscoin.io
+ * https://verus.io
  * https://luckpool.net/verus
  * https://github.com/hellcatz/luckpool
 
